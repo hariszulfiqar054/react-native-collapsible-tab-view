@@ -123,5 +123,6 @@
   "eslintIgnore": [
     "node_modules/",
     "lib/"
-  ]
+  ],
+  "browserslist": {}
 }
